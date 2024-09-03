@@ -1,0 +1,125 @@
+body {
+  background-color: #e2e2e2;
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.hide {
+  display: none !important;
+}
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content {
+  width: 360px;
+  background-color: #f1f1f1;
+  padding: 36px 0;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+}
+.section {
+  padding: 0 32px;
+}
+
+/* section-avatar */
+.section.section-avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section.section-avatar .container-avatar {
+  width: 120px;
+  height: 120px;
+}
+.section.section-avatar .container-avatar img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 60px;
+  box-shadow: 5px 5px 20px #d2d2d2;
+}
+
+/* section-name */
+.section.section-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section.section-name h2 {
+  font-size: 1.25em;
+  margin: 4px 0;
+}
+
+/* section-title */
+.section.section-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section.section-title h3 {
+  font-size: 1em;
+  margin: 4px 0;
+}
+
+/* section-contact */
+.section.section-contact:first-child {
+  margin-top: 8px;
+}
+.section.section-contact {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  column-gap: 12px;
+}
+.section.section-contact .icon {
+  width: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* section-skill */
+.section.section-skill .skill-title h4 {
+  font-size: 1em;
+  text-align: center;
+  margin: 8px 0;
+}
+.section.section-skill .skill-content {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  column-gap: 8px;
+  row-gap: 8px;
+}
+.section.section-skill .skill-content .skill {
+  font-size: 0.75em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3px 9px;
+  border-radius: 8px;
+  background-color: #e2e2e2;
+}
+
+/* section-social */
+.section.section-social {
+  margin-top: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  column-gap: 24px;
+}
+.section.section-social .social .icon {
+  width: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
