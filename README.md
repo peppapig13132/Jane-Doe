@@ -113,4 +113,4 @@ Add `hide` class to unused social media. For example 👇
 Feel free to share your add your idea on issue tab.
 
 ## Support 💖
-If you find this project helpful, please consider giving it a ⭐️ on [GitHub](https://github.com/peppapig13132/Jane-Doe)!
+If you find this project helpful, please consider giving a ⭐️ on [GitHub](https://github.com/peppapig13132/Jane-Doe)!
