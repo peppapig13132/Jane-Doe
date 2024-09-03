@@ -83,6 +83,7 @@ Pre-defined social media:
 - GitHub
 - GitLab
 - HackerRank
+- Upwork
 - Medium
 - Google +
 - Snapchat
