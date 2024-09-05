@@ -124,6 +124,13 @@ body {
   justify-content: center;
   align-items: center;
 }
+.section.section-social .social .icon svg {
+  fill: #222;
+}
+.section.section-social .social .icon svg:hover {
+  transform: rotate(-360deg);
+  transition: transform 0.5s ease;
+}
 
 /* section-author */
 .section.section-author p {
