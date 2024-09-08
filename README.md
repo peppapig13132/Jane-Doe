@@ -2,6 +2,8 @@
 
 Profile page repository easy to use. Developed by HTML and CSS only.
 
+_Note: All names, phone numbers, emails, and other personal information displayed in this template are entirely fictional and for demonstration purposes only. Any resemblance to real individuals or organizations is purely coincidental._
+
 ## Meta content
 
 Do not forget to add your information to meta tag in HTML header.
@@ -113,4 +115,4 @@ Add `hide` class to unused social media. For example 👇
 Feel free to share your add your idea on issue tab.
 
 ## Support 💖
-If you find this project helpful, please consider giving a ⭐️ on [GitHub](https://github.com/peppapig13132/Jane-Doe)!
+If you find this project helpful, please consider giving a ⭐️ on [GitHub](https://github.com/peppapig13132/pf-jane-doe)!
